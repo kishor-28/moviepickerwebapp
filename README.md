@@ -1,16 +1,25 @@
-# React + Vite
+Movie Picker is a responsive web application built with React.js that helps users discover movies instantly. Users can browse through movie options and get recommendations based on search or selection — making it fun and easy to pick what to watch next!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo: https://moviepickerwebapp.netlify.app/
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📍 Browse a curated list of movies
 
-## React Compiler
+🔍 Search for movies by title
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎥 View basic movie details (poster, title, etc.)
 
-## Expanding the ESLint configuration
+⚡ Fast, responsive UI built with React.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📦 Easily deployable on platforms like Netlify
+
+🛠 Tech Stack
+
+React.js — UI library for building interactive components
+
+JavaScript (ES6+) — Logic and app functionality
+
+CSS / Styling Library — For design & layout
+
+Netlify — Hosted live with automatic builds
